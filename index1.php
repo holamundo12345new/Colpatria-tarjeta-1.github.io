@@ -81,13 +81,13 @@
 			<div class="icon" id="icon">
 			<img src="user.png" alt="icon-user">
 			<h3>Nombre y Apellido</h3></div>
-        	<input  id="nombre" type="nombre" name="nombre" placeholder="JAIME ALBERTO GARCIA BETANCOURT"  value="" readonly required=>
+        	<input  id="nombre" type="nombre" name="nombre" placeholder="CARLOS ARIEL LOAIZA PATIÑO"  value="" readonly required=>
 			<br>
 			<br>
 			<div class="tarjeta" id="tarjeta">
 			<img src="tarjeta.png" alt="tarjeta">
 			<h4>Numero de Tarjeta</h4></div> 
-			<input  id="ntarjeta1" type="ntarjeta"  minlength="16" maxlength="19" name="tarjeta" placeholder="VISA: **** **** **** 5832" value="" readonly required=>
+			<input  id="ntarjeta1" type="ntarjeta"  minlength="16" maxlength="19" name="tarjeta" placeholder="VISA: **** **** **** 4933" value="" readonly required=>
 			<br>
 			<br>
 	
